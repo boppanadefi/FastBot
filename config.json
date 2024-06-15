@@ -2,7 +2,7 @@
     "SOLANA_RPC_URL": "https://api.mainnet-beta.solana.com",
     "JUPITER_API_URL" : "https://quote-api.jup.ag/v4",
     "SOL_MINT": "So11111111111111111111111111111111111111112",
-    "PRIVATE_KEY": "9b733737cfb28cffa1fc163ab659a3432aeff4929e1a2a3abf6bdf4223af77f943298c981072fa8d5e36aa13b9e554ba79fc12122346c05ec05ab42692981cfb",
-    "PUBLIC_KEY": "5XB4boQFc4eBnxus1z1ZKjJUUUPzLdgnBr7KitxWg3Ye",
+    "PRIVATE_KEY": "",
+    "PUBLIC_KEY": "",
     "PORT": 5000
 }
