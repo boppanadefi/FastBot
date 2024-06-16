@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.93.0",
+    "buffer-layout": "^1.2.2"
+  },
+  "name": "fastbot",
+  "version": "1.0.0",
+  "main": "retrieveLiquidityPool.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boppanadefi/FastBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boppanadefi/FastBot/issues"
+  },
+  "homepage": "https://github.com/boppanadefi/FastBot#readme",
+  "description": ""
+}
